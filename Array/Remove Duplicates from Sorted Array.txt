@@ -1,0 +1,44 @@
+Mentioned below few links for your reference:- 
+
+Basics/Fundamentals of Linux/Ubuntu/Solaris:
+
+Disk, file system management
+https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/managing_storage_devices/index
+https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/managing_file_systems/index
+Process management https://www.tutorialspoint.com/unix/unix-processes.htm
+OS Networking: https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/configuring_and_managing_networking/index
+Memory management: https://www.tldp.org/LDP/tlk/mm/memory.html
+File and user management:
+https://www.tecmint.com/manage-users-and-groups-in-linux/
+https://www.tutorialspoint.com/unix/unix-file-management.htm
+https://access.redhat.com/documentation/en/red-hat-enterprise-linux/
+
+Basics/Fundamentals of Networking:
+
+OSI model: https://www.geeksforgeeks.org/layers-of-osi-model/
+TCP/IP: https://www.geeksforgeeks.org/tcp-ip-model/
+DNS: https://www.geeksforgeeks.org/address-resolution-in-dns-domain-name-server/
+DHCP: https://www.geeksforgeeks.org/dynamic-host-configuration-protocol-dhcp/
+https://www.geeksforgeeks.org/differences-between-tcp-and-udp/
+https://www.geeksforgeeks.org/types-of-virtual-private-network-vpn-and-its-protocols/
+HTTP/HTTPS: https://practice.geeksforgeeks.org/problems/http-vs-https
+NAT: http://www.ciscopress.com/articles/article.asp?p=1725268
+Firewall: https://www.geeksforgeeks.org/introduction-of-firewall-in-computer-network/
+3-way handshake: https://support.microsoft.com/en-in/help/172983/explanation-of-the-three-way-handshake-via-tcp-ip
+https://learningnetwork.cisco.com/community/certifications/ccna/icnd1/study-material
+
+DMS/Programming:
+
+https://en.wikipedia.org/wiki/Transport_Layer_Security
+https://www.restapitutorial.com/
+https://www.geeksforgeeks.org/rest-api-introduction/
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers
+https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching
+https://en.wikipedia.org/wiki/MQTT
+https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2
+https://en.wikipedia.org/wiki/Security_Assertion_Markup_Language
+https://auth0.com/docs/authorization/concepts/authz-and-authn
+https://www.globalknowledge.com/ca-en/resources/resource-library/articles/the-three-types-of-multi-factor-authentication-mfa/
+AWS Lambda: https://docs.aws.amazon.com/lambda/latest/dg/welcome.html
+AWS Lex: https://docs.aws.amazon.com/lex/latest/dg/what-is.html
